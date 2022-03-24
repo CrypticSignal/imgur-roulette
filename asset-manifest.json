@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/imgur-roulette/static/css/main.a60d87f8.css",
+    "main.js": "/imgur-roulette/static/js/main.956d08e0.js",
+    "index.html": "/imgur-roulette/index.html",
+    "main.a60d87f8.css.map": "/imgur-roulette/static/css/main.a60d87f8.css.map",
+    "main.956d08e0.js.map": "/imgur-roulette/static/js/main.956d08e0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a60d87f8.css",
+    "static/js/main.956d08e0.js"
+  ]
+}
